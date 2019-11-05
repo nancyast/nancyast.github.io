@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nancyast.github.io/static/css/main.f5b6a7e6.chunk.css",
+    "main.js": "/nancyast.github.io/static/js/main.985402ef.chunk.js",
+    "main.js.map": "/nancyast.github.io/static/js/main.985402ef.chunk.js.map",
+    "runtime-main.js": "/nancyast.github.io/static/js/runtime-main.009ed60c.js",
+    "runtime-main.js.map": "/nancyast.github.io/static/js/runtime-main.009ed60c.js.map",
+    "static/js/2.0580594c.chunk.js": "/nancyast.github.io/static/js/2.0580594c.chunk.js",
+    "static/js/2.0580594c.chunk.js.map": "/nancyast.github.io/static/js/2.0580594c.chunk.js.map",
+    "index.html": "/nancyast.github.io/index.html",
+    "precache-manifest.cd83db1ad60244b69f880b3e0e62f86c.js": "/nancyast.github.io/precache-manifest.cd83db1ad60244b69f880b3e0e62f86c.js",
+    "service-worker.js": "/nancyast.github.io/service-worker.js",
+    "static/css/main.f5b6a7e6.chunk.css.map": "/nancyast.github.io/static/css/main.f5b6a7e6.chunk.css.map",
+    "static/media/add.f416d8ea.svg": "/nancyast.github.io/static/media/add.f416d8ea.svg",
+    "static/media/back.858ff1d1.svg": "/nancyast.github.io/static/media/back.858ff1d1.svg",
+    "static/media/check.fc747bdd.svg": "/nancyast.github.io/static/media/check.fc747bdd.svg",
+    "static/media/close.b10917a7.svg": "/nancyast.github.io/static/media/close.b10917a7.svg",
+    "static/media/dropdown.8d09f4f3.svg": "/nancyast.github.io/static/media/dropdown.8d09f4f3.svg",
+    "static/media/heart-filled.3c0499c3.svg": "/nancyast.github.io/static/media/heart-filled.3c0499c3.svg",
+    "static/media/heart.2ac45a87.svg": "/nancyast.github.io/static/media/heart.2ac45a87.svg",
+    "static/media/pen.91a2a736.svg": "/nancyast.github.io/static/media/pen.91a2a736.svg",
+    "static/media/play.aaceab3d.svg": "/nancyast.github.io/static/media/play.aaceab3d.svg",
+    "static/media/trash-bin.d420defc.svg": "/nancyast.github.io/static/media/trash-bin.d420defc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009ed60c.js",
+    "static/js/2.0580594c.chunk.js",
+    "static/css/main.f5b6a7e6.chunk.css",
+    "static/js/main.985402ef.chunk.js"
+  ]
+}
