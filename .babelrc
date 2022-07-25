@@ -1,0 +1,30 @@
+{
+  "env": {
+    "dev": {
+      "presets": [
+        "react-app"
+      ],
+      "plugins": [
+        "babel-plugin-styled-components",
+        {
+          "displayName": true,
+          "fileName": true,
+          "namespace": "uacj"
+        }
+      ]
+    },
+    "prod": {
+      "presets": [
+        "react-app"
+      ],
+      "plugins": [
+        "babel-plugin-styled-components",
+        {
+          "displayName": false,
+          "fileName": false,
+          "namespace": "uacj"
+        }
+      ]
+    }
+  }
+}
