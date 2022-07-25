@@ -1,6 +1,4 @@
-# UACJ-Water Bridge Project
 
-This project manages backup water data and connects water station to rescue people from lack of water
 
 ## Prerequisites
 
